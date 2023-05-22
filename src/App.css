@@ -1,0 +1,12 @@
+.logoutBtn,
+.loginbtn {
+    margin-right: 5%;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block !important;
+}
